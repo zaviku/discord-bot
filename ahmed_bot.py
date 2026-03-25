@@ -463,4 +463,4 @@ async def on_command_error(ctx, error):
 #   discord.com/developers/applications
 # ============================================================
 
-bot.run(os.environ.get("MTQ4NjE4MjcxNDQyMzExNTkxNg.GXoBRd.Lt8C1tVTXanXdQIOb3IWgJX-FveMnIChN8E6AA"))
+bot.run(os.environ.get("TOKEN"))
