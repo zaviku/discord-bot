@@ -463,4 +463,4 @@ async def on_command_error(ctx, error):
 #   discord.com/developers/applications
 # ============================================================
 
-bot.run(os.environ.get("MTQ4NjE4MjcxNDQyMzExNTkxNg.GWf5qn.U6U93zsWj6EVdCnnMX4Ru4K7VXlhCgyt1jQBD8"))
+bot.run(os.environ.get("MTQ4NjE4MjcxNDQyMzExNTkxNg.GXoBRd.Lt8C1tVTXanXdQIOb3IWgJX-FveMnIChN8E6AA"))
