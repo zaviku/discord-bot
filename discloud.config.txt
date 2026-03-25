@@ -1,0 +1,6 @@
+ID=ahmedbot
+   TYPE=bot
+   MAIN=ahmed_bot.py
+   RAM=100
+   VERSION=recommended
+   AUTORESTART=true
