@@ -1,0 +1,18 @@
+{
+    "prefix": "?",
+    "welcome_channel": "welcome",
+    "level_up_channel": "level-announcements",
+    "mod_log_channel": "mod-logs",
+    "get_roles_channel": "get-roles",
+    "xp_per_message": 5,
+    "xp_cooldown_seconds": 5,
+    "reaction_roles": {
+        "message_id": null,
+        "mapping": {
+            "🔵": "Male",
+            "🔴": "Female",
+            "⚪": "Prefer not to say"
+        }
+    },
+    "mod_roles": ["Mod", "Head Mods", "Ahmed"]
+}
