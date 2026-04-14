@@ -634,7 +634,7 @@ async def twitch_check_loop():
         data["twitch_live"] = True
         save_data(data)
         for guild in bot.guilds:
-            channel = discord.utils.get(guild.text_channels, name="twitch-announcement")
+            channel = discord.utils.get(guild.text_channels, name="twitch-announcements")
             if channel:
                 embed = discord.Embed(
                     title="Vexon is now LIVE on Twitch!",
