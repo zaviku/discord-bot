@@ -38,7 +38,7 @@ for _fname in ("config.json", "data.json"):
 
 TWITCH_CHANNEL  = "vexonn_gaming"
 TWITCH_LINK     = "https://www.twitch.tv/vexonn_gaming"
-KICK_CHANNEL    = "vexon-gaming"
+KICK_CHANNEL    = "Vexon_Gaming"
 KICK_LINK       = "https://kick.com/vexon-gaming"
 YOUTUBE_LIVE_CHANNEL = "vexonn_gaming"
 YOUTUBE_LIVE_LINK    = "https://www.youtube.com/@vexonn_gaming"
